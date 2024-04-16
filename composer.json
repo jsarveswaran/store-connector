@@ -10,8 +10,8 @@
     "autoload": {
        "files": [ "registration.php" ],
        "psr-4": {
-          "Saleswarp\\StoreConnector\\": ""
+          "Jsarveswaran\\StoreConnector\\": ""
        }
     },	
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
  }
